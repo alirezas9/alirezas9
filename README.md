@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 - 📫 How to reach me **alisalahshor9@gmail.com**
+-- telegram : @alireza_salahshor
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

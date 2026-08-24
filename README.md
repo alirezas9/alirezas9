@@ -31,9 +31,6 @@ I'm currently deepening my understanding of deep learning and LLMs by building a
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-**Languages:** Persian (Native) · English (Professional Working Proficiency)
-
 ### 📫 Contact
 
 <p align="left">

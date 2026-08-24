@@ -34,13 +34,6 @@ I'm currently deepening my understanding of deep learning and LLMs by building a
 
 **Languages:** Persian (Native) · English (Professional Working Proficiency)
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alirezas9&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezas9&layout=compact&hide_border=true" />
-</p>
-
 ### 📫 Contact
 
 <p align="left">
